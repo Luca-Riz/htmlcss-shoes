@@ -71,7 +71,7 @@ nav a {
     background-color: red;
 }
 
-#sc1 .text {
+#sc1 .text, #sc2 .text {
     color: yellow;
 }
 

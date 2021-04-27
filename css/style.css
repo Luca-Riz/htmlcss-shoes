@@ -27,8 +27,8 @@
     text-align: center;
 }
 
-.box-shoes:hover{
-    box-shadow: 40px 40px 20px;
+.box-shoes:hover {
+    opacity: 0.5;
 }
 
 /* fine common */

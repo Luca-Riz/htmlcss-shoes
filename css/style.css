@@ -83,12 +83,16 @@ nav a {
     background-color: yellow;
 }
 
+#sc3 .text {
+    color: green;
+}
+
 
 /* fine main */
 
 /* inizio debug */
 
-.debug .box-shoes {
+/* .debug .box-shoes {
     border: 1px solid black;
 }
-
+ */

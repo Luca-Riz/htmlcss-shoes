@@ -27,6 +27,9 @@
     text-align: center;
 }
 
+.box-shoes:hover{
+    box-shadow: 40px 40px 20px;
+}
 
 /* fine common */
 
